@@ -187,7 +187,7 @@ case 5: //Comparação de Densidade Populacional
     } else if (densidade1 > densidade2) {
         printf(" \nA carta 2 venceu !!!\n");
     } else {
-        printf ("Empate!!!\n");
+        printf ("\n Empate!!!\n");
     }
     break;
 case 6: //Comparação PIB per Capita
