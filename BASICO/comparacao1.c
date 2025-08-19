@@ -4,7 +4,7 @@ int main() {
 
 //Variaveis
 char estado1[10], estado2[10];
-char codigo1[10], codigo2[10];
+char c\\\\\\\\\\\odigo1[10], codigo2[10];
 char cidade1[20], cidade2[20];
 unsigned long int populacao1, populacao2;
 float area1, area2;
