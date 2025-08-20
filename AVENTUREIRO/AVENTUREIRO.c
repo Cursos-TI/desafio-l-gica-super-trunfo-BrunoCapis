@@ -12,7 +12,7 @@ float PIB1, PIB2;
 int pontosturisticos1, pontosturisticos2;
 float densidade1, densidade2; // Densidade populacional
 float PIBpercapita1, PIBpercapita2; // PIB per capita
-int comparacao;
+int comparacao; //Variavel para uso do switch 
 
 
 printf ("Registro de Cartas Super Trunfo\n");
@@ -125,7 +125,7 @@ printf("\n====================================================\n");
 
 // Comparação das cartas
 printf ("Escolha um atributo para comparação:\n");
-printf ("1 - População\n2 - PIB\n3 - Área\n4 - Pontos Turísticos\n5 - Densidade Populacional\n6 - PIB per Capita\n");
+printf ("1 - População\n2 - PIB\n3 - Área\n4 - Pontos Turísticos\n5 - Densidade Populacional\n6 - PIB per Capita\n7 - Superpoder\n");
 printf ("Digite o número do atributo: ");
 scanf("%d", &comparacao);
 
